@@ -5538,7 +5538,7 @@ table {
 
 
 .hero-section  {
-    background: url(/assets/images/g.jpg) no-repeat center top;
+    background: url(/images/g.jpg) no-repeat center top;
     background-size: cover;
     min-height: 650px;
     height: calc(100vh - 100px);
@@ -5575,7 +5575,7 @@ table {
 /* 
 @media (min-width:768px) {
     .hero-section {
-        background-image: url('/assets/images/pexels-ron-lach-10553955 (Original).mp4');
+        background-image: url('/images/pexels-ron-lach-10553955 (Original).mp4');
         
         
     }
@@ -5684,27 +5684,27 @@ table {
 }
 
 .essential-accordion .accordion-trigger.admin {
-    background-image: url(/assets/images/planting.png)
+    background-image: url(/images/planting.png)
 }
 
 .essential-accordion .accordion-trigger.admin.collapsed {
-    background-image: url(/assets/images/d.png)
+    background-image: url(/images/d.png)
 }
 
 .essential-accordion .accordion-trigger.powerful {
-    background-image: url(/assets/images/growing-seed.png)
+    background-image: url(/images/growing-seed.png)
 }
 
 .essential-accordion .accordion-trigger.powerful.collapsed {
-    background-image: url(/assets/images/growing-seed\ \(1\).png)
+    background-image: url(/images/growing-seed\ \(1\).png)
 }
 
 .essential-accordion .accordion-trigger.timecard {
-    background-image: url(/assets/images/gardening.png)
+    background-image: url(/images/gardening.png)
 }
 
 .essential-accordion .accordion-trigger.timecard.collapsed {
-    background-image: url(/assets/images/gardening\ \(1\).png)
+    background-image: url(/images/gardening\ \(1\).png)
 }
 
 .essential-accordion .card-body {
@@ -5720,7 +5720,7 @@ table {
 }
 
 .essential-accordion .card-body ul {
-    list-style-image: url(../assets/images/list-image.png);
+    list-style-image: url(../images/list-image.png);
     margin-bottom: 0
 }
 
@@ -5786,7 +5786,7 @@ table {
 }
 
 .section-how-works {
-    background: url(/assets/images/top-view-veggies-with-salad-eggplant.jpg) no-repeat;
+    background: url(/images/top-view-veggies-with-salad-eggplant.jpg) no-repeat;
     background-size: cover;
     color: #fff;
     padding: 3rem 0;
@@ -5818,7 +5818,7 @@ table {
 
 @media (min-width:992px) {
     .section-how-works {
-        background-image: url(/assets/images/vegetables-3679075.jpg);
+        background-image: url(/images/vegetables-3679075.jpg);
         text-align: left;
         padding: 50px
     }
@@ -5851,7 +5851,7 @@ table {
 }
 
 .section-our-story {
-    background: url(/assets/images/tim-schmidbauer-7_18eO1o0sc-unsplash.jpg) no-repeat center center;
+    background: url(/images/tim-schmidbauer-7_18eO1o0sc-unsplash.jpg) no-repeat center center;
     background-size: cover;
     color: #fff;
     text-align: center;
@@ -6066,12 +6066,12 @@ table {
 }
 
 .section-testimonial .carousel-control-prev {
-    background-image: url(../assets/images/arrow-left.png);
+    background-image: url(../images/arrow-left.png);
     background-position: left 3rem
 }
 
 .section-testimonial .carousel-control-next {
-    background-image: url(../assets/images/arrow-right.png);
+    background-image: url(../images/arrow-right.png);
     background-position: right 3rem
 }
 
@@ -6132,7 +6132,7 @@ table {
 }
 
 .section-tryout {
-    background: url(/assets/images/tim-schmidbauer-7_18eO1o0sc-unsplash.jpg) no-repeat center center;
+    background: url(/images/tim-schmidbauer-7_18eO1o0sc-unsplash.jpg) no-repeat center center;
     background-size: cover;
     color: #fff;
     text-align: center;
