@@ -1,0 +1,8 @@
+module.exports = window.jQuery;
+
+
+//////////////////
+// WEBPACK FOOTER
+// external "window.jQuery"
+// module id = 0iPh
+// module chunks = app
